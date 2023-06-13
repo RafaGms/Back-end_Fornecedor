@@ -1,0 +1,1 @@
+INSERT INTO TBL_SUPPLIER (NAME, ACTIVE, CATEGORY, CONTACT) VALUES ('Marcos Felipe', true, 'Internacional', '11999999999');
